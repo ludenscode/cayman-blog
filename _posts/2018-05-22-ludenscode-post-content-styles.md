@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post content styles"
+title: "글쓰는 방법에 대해서"
 tagline: "This post demonstrates post content styles"
 categories: junk
 image: /thumbnail-mobile.png
