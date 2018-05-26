@@ -1,5 +1,5 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.
+title: 루덴스코드
+description: 루덴스코드는 "처음코딩" 무료 동영상 강의를 진행하고 있습니다. 초등학생부터 중고등학생과 코딩을 알기 원하는 일반인과 강사과정에 관심이 있는 분들을 위해 읽을거리와 코딩정보를 제공하고 있습니다.
 show_downloads: true
 
 # baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -16,14 +16,14 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "Sungkuk Lim"
+author: "바람(임성국)"
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  # username: lorepirri
 #  site:
 facebook:
   #publisher: 1592372034171500
   #profile_id: 1809805629
-  # app_id: 1798910940422432 # cayman-blog
+  app_id: 117974735348338 # cayman-blog
   #authors: lorepirri
 #  admins:
