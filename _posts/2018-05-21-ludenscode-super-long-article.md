@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "글을 너무 길게 쓰지 마세요. 화면에 제대로 보이지 않을수 있습니다"
+title: 제목은 한줄로 간결하게 내용은 쉽게
 categories: misc
 ---
 
