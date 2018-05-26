@@ -1,14 +1,15 @@
 ---
 layout: post
-title: 루덴스코드 깃허브 블로그 
+title: 루덴스코드 깃허브 블로그 시작
 ---
 
-포스트 글 내용 전반부
+## 전반부
 
 {% comment %}
 Might you have an include in your theme? Why not try it here!
 {% include my-themes-great-include.html %}
 {% endcomment %}
 
-포스트 글 내용 후반부.
-그 사이에 별도의 파일 내용 추가 
+## 블로그를 시작
+
+깃허브에서 블로그 테마로 시작하다.
