@@ -25,3 +25,19 @@ java Spring 을 사용하기 위해 eclipse 를 실행시키고, 그곳의 소�
 
 커맨드 창에서 커서가 깜박이며 입력상태를 나타낸다.
 
+이 상태에서 내가 원하는 명령
+
+<pre><code>git all --all .</code></pre>
+
+을 사용할 커맨드창에서 키보드 입력을 통해 수행할 수 있다.
+
+스프링 프로젝트의 디렉토리에 gitst.bat 이름으로 배치파일을 만들어두고 그 내부에
+
+<pre><code>cmd /k "git status" & D:\sts-3.9.4.RELEASE\STS.exe</code></pre?
+
+입력해 두면 gitst.bat 를 더블 클릭하면 커맨드창이 떠서 git 명령을 기다리고 있고, STS 의 eclipse 가 떠서 작업상태가 된다. 한번에 둘 이상의 프로그램을 실행시켜 둘때 cmd /k 과 & 옵션을 잘 사용하면 편하게 개발환경을 만들 수 있다.
+
+
+![View the Light](https://user-images.githubusercontent.com/3831276/40552763-9e132ea0-607b-11e8-881c-8e29c24b8721.jpg "더 빠르게 개발환경 시작하기")
+
+
